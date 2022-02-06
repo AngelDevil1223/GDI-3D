@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Rasteriser.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bitmap.cpp
+  Camera.cpp
+  Framework.cpp
+  Matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+  Polygon3D.cpp
+  Rasteriser.cpp
+d:\freelancer\ongoing work\pending\python projet noor\3d_graphics_render_engine-master\rasteriser\rasteriser.cpp(92): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\freelancer\ongoing work\pending\python projet noor\3d_graphics_render_engine-master\rasteriser\rasteriser.cpp(101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\freelancer\ongoing work\pending\python projet noor\3d_graphics_render_engine-master\rasteriser\rasteriser.cpp(102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Vector3D.cpp
+  Vertex.cpp
+  Generating Code...
+  Rasteriser.vcxproj -> D:\Freelancer\Ongoing Work\Pending\Python Projet Noor\3D_Graphics_Render_Engine-master\x64\Debug\Aliaksandar.exe
